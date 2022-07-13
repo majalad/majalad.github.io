@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: majalad.github.io
+Token: 43cac8069555a59d82bcfad8f34f0fd20d592cab0506153b2933d9f125637768
